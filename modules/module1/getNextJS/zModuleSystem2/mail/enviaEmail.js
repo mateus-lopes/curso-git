@@ -19,7 +19,7 @@ function send(to, from, message){
 
 function conectaServidor() {
     serverIp = "187.489.125.94";
-    serverName = "ifc-joinville";
+    serverName = "ifc-araquari";
     
     connection['ip'] = serverIp;
     connection['server'] = serverName;
